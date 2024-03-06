@@ -1,4 +1,3 @@
-[Tests]
  [./Basic]
    type = 'RavenFramework'
    input = 'basic.xml'

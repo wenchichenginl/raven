@@ -1,0 +1,9 @@
+[Tests]  
+  [./01_wenchi_NIHPA]
+    type = RavenPython
+    #file='INL_NIHPA_Beta_3.6_HTSE_LTE_general.xlsb'
+	input = 'NIHPA_change_and_check.py INL_NIHPA_Beta_3.6_HTSE_LTE_general.xlsb'
+  [../]  
+[]
+
+
